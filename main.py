@@ -5,7 +5,7 @@ import logging
 from ScoreType import ScoreType
 from typing import Dict
 
-DICT_NAME = 'frequency_of_rus_words.csv'
+DICT_NAME = 'frequency_of_rus_words.csv'    # taken from http://dict.ruslang.ru/freq.php
 LINEAR_COEFFICIENT = 500
 POWER_COEFFICIENT = 10
 EXPONENTIAL_COEFFICIENT = 10
