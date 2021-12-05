@@ -1,7 +1,7 @@
 # Auto-correct text
 Correcting typos in a word based on the frequency dictionary.
 
-The algorithm is base on the distance between words according to the Levenshtein-Damerau algorithm, and the frequency of words in the language.
+This algorithm is based on the distance between words according to the Levenshtein-Damerau algorithm, and the frequency of words in the language.
 
 There is a choice of three functions for calculating the best option: linear, exponential and exponential. The parameters for these functions are user-definable.
 
